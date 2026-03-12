@@ -1,0 +1,8 @@
+transformers
+torch
+pandas
+numpy
+gspread
+gradio
+google-auth
+scikit-learn
